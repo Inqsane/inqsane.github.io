@@ -147,6 +147,7 @@
   </p>
 
   <h2>13. Kontakt</h2>
-  <p>Bei Fragen: <strong>Management: inqsanedc@gmail.com</strong></p>
+  <p><strong>Management: inqsanedc@gmail.com</strong></p>
+  <p><strong>Datenschutzbeauftragte(r): david.grabsch@gmail.com</strong></p>
 </body>
 </html>
