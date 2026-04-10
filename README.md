@@ -24,7 +24,7 @@
   </p>
   <p>
     <strong>Datenschutzbeauftragte(r): David Grabsch</strong><br />
-    Kontakt: <strong>inqsanedc@gmail.com</strong>
+    Kontakt: <strong>david.grabsch@gmail.com</strong>
   </p>
 
   <h2>2. Überblick: Welche Daten verarbeitet die App?</h2>
