@@ -23,7 +23,7 @@
     Verantwortlich für die Datenverarbeitung in der App „UN Sammler“ ist:
   </p>
   <p>
-    <strong>Datenschutzbeauftragte(r): David Grabsch</strong><br />
+    Datenschutzbeauftragte(r): <strong>David Grabsch</strong><br />
     Kontakt: <strong>david.grabsch@gmail.com</strong>
   </p>
 
