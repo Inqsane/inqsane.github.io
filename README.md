@@ -147,6 +147,6 @@
   </p>
 
   <h2>13. Kontakt</h2>
-  <p>Bei Fragen: <strong>inqsanedc@gmail.com</strong></p>
+  <p>Bei Fragen: <strong>Management: inqsanedc@gmail.com</strong></p>
 </body>
 </html>
