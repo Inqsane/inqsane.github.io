@@ -1,5 +1,3 @@
-<!doctype html>
-
 <html lang="de">
 <head>
   <meta charset="utf-8" />
@@ -25,7 +23,7 @@
     Verantwortlich für die Datenverarbeitung in der App „UN Sammler“ ist:
   </p>
   <p>
-    <strong>David Grabsch</strong><br />
+    <strong>Datenschutzbeauftragte(r): David Grabsch</strong><br />
     Kontakt: <strong>inqsanedc@gmail.com</strong>
   </p>
 
